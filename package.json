@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kartik20144.github.io/robofriends",
+  "homepage": "https://kartik20144.github.io/Robofriends",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
